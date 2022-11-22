@@ -17,6 +17,13 @@ $default-font-family: 'Montserrat', sans-serif;
 $special-font-family: 'Fraunces', serif;
 //---- /font ---//
 
+//---- images ---//
+$image-product-desktop: url(//challenge-1/assets/image-product-desktop.jpg);
+$image-product-mobile: url(//challenge-1/assets/image-product-mobile.jpg);
+//---- /images ---//
+
+
+
 
 
 * {
@@ -24,3 +31,5 @@ $special-font-family: 'Fraunces', serif;
     padding: 0;
     box-shadow: none;
 }
+
+a
